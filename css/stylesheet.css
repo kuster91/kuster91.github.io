@@ -88,3 +88,17 @@ li{
 .social-image img{
 	width: 100%;
 }
+.name-header:hover{
+			-webkit-transform: scale(1.5);
+			color: red;
+}
+#transforming{
+	-webkit-transition: webkit-transform .4s ease-in;
+			transition: webkit-transform .4s ease-in;
+			transition:			transform .4s ease-in;
+			transition: 		transform .4s ease-in;
+
+}
+.avatar-image:hover{
+			-webkit-transform: scale(1.5);
+}
