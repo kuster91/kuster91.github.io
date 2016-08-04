@@ -133,14 +133,12 @@ li{
 	font-family: arial, sans-serif;
 	letter-spacing: 10px;
 }
-
 .menu{
 	background: #202024 url('http://celulares.s3.amazonaws.com/wp-content/gallery/iphone4.11b2h6r.jpg');
 	left: -285px;
 	height: 100%;
 	position: fixed;
 	width: 285px;
-
 }
 
 .jumbotron{
